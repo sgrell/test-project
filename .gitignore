@@ -1,0 +1,9 @@
+*.iml
+build.gradle.bak
+.gradle/
+*-version.txt
+build/
+out/
+.idea
+.gradletasknamecache
+.DS_Store
